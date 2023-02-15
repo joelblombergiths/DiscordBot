@@ -7,7 +7,7 @@ using Microsoft.Extensions.Logging;
 using System.Reflection;
 using Newtonsoft.Json;
 
-const string token = "MTA3MjA4NTE0NDU3NzUyMzcxMg.Gogt7G.14Q-xdqgH1_z9IJGqPiZ55jiPSECcbyGVKlzq0";
+const string token = "";
 
 
 
